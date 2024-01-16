@@ -21,6 +21,7 @@ The survey form is designed to collect data from users on their preferences for 
 The following technologies were used in the creation of this project:
 
 - HTML
+- CSS
 
 ## Installation
 
